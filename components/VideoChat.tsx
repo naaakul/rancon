@@ -1,3 +1,5 @@
+"use client"
+
 import React, { useRef, useEffect } from 'react';
 import { useWebRTC } from '../lib/useWebRTC';
 import { ChatStatus } from '../types';
